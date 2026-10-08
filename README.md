@@ -28,5 +28,5 @@ A **front-end development internship** where I can learn from an experienced tea
 ## Contact
 
 - Portfolio: [asim-portfolio-dun.vercel.app](https://asim-portfolio-dun.vercel.app)
-- Email: [worldcoding47@gmail.com](mailto:worldcoding47@gmail.com)
+- Email: [asimwebcontact@gmail.com](mailto:asimwebcontact@gmail.com)
 - Location: Abbottabad, Pakistan
